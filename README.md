@@ -1,4 +1,5 @@
 # Suoni Rilassanti
+<img src="https://raw.githubusercontent.com/Giuseppe7887/suoni-rilassanti/main/assets/adaptive-icon.png"/>
 
 ## Rilassati e ascolta i rumori bianchi più rilassanti di sempre
 
@@ -11,4 +12,3 @@ Puoi settare anche un pratico timer per interrompere automaticamente il suono do
 
 [Puoi scaricarla qui 🔗](https://play.google.com/store/apps/details?id=com.rumoririlassanti&hl=it)
 
-<img src="https://raw.githubusercontent.com/Giuseppe7887/suoni-rilassanti/main/assets/adaptive-icon.png"/>
