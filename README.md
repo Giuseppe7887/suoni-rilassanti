@@ -3,7 +3,7 @@
 ## Rilassati e ascolta i rumori bianchi più rilassanti di sempre
 
 
-Un set di suoni bianchi ideati per rilassarti, dai suoni naturali, come il rumore della pioggia battente, l'eco di un mare in tempesta o il rombo di un phon acceso.
+Un set di rumori bianchi ideati per rilassarti, dai suoni naturali, come il rumore della pioggia battente, l'eco di un mare in tempesta o il rombo di un phon acceso.
 
 Per ogni suono sono disponibili 3 "intensità" disposte in ordine crescente.
 
