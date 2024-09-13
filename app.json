@@ -1,6 +1,14 @@
 {
   "expo": {
-    "name": "rumori_rilassanti",
+    "plugins": [
+      [
+        "expo-av",
+        {
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone."
+        }
+      ]
+    ],
+    "name": "Rumori rilassanti",
     "slug": "rumori_rilassanti",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,13 +26,25 @@
       "supportsTablet": true
     },
     "android": {
+      "targetSdkVersion": 34,
+      "compileSdkVersion": 34,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.gius3ppe.rumori_rilassanti",
+      "versionCode":2
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1bf58365-2aca-459c-a396-d38b7a6b9864"
+      }
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5757214879750474~5879847838"
   }
 }
