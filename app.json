@@ -2,6 +2,19 @@
   "expo": {
     "plugins": [
       [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 34,
+            "targetSdkVersion": 34,
+            "buildToolsVersion": "34.0.0"
+          },
+          "ios": {
+            "deploymentTarget": "13.4"
+          }
+        }
+      ],
+      [
         "expo-av",
         {
           "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone."
@@ -26,14 +39,12 @@
       "supportsTablet": true
     },
     "android": {
-      "targetSdkVersion": 34,
-      "compileSdkVersion": 34,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.gius3ppe.rumori_rilassanti",
-      "versionCode":3
+      "versionCode":4
     },
     "web": {
       "favicon": "./assets/favicon.png"
